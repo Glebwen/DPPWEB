@@ -145,4 +145,32 @@ header{
         align-self: center;
     }
 }
+@media (max-width : 350px) {
+    header{
+        text-align: center;
+    }
+    .module{
+        min-width: 200px;
+        flex-basis: 90%;
+        font-size: medium;
+    }
+    .blockk{
+        font-size: larger;
+    }
+    main{
+        border-style:dotted;
+        margin:0pt;
+    }
+    img {
+        border-radius: 5%;
+        width: 80%;
+        margin: 10pt;
+        align-self: center;
+    }
+    .contactInfo{
+        color: black;
+        text-decoration: underline;
+        font-size: large;
+    }
+}
  
