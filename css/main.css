@@ -149,6 +149,9 @@ header{
     header{
         text-align: center;
     }
+    section{
+        padding: 0pt;
+    }
     .module{
         min-width: 200px;
         flex-basis: 90%;
