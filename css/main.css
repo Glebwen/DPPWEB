@@ -117,6 +117,12 @@ header{
         flex-basis: 70%;
         font-size: larger;
     }
+    img {
+        border-radius: 5%;
+        width: 80%;
+        margin: 10pt;
+        align-self: center;
+    }
 }
 @media (max-width : 600px) {
     header{
@@ -124,8 +130,8 @@ header{
     }
     .module{
         min-width: 240px;
-        flex-basis: 80%;
-        font-size: larger;
+        flex-basis: 90%;
+        font-size: large;
     }
     .blockk{
         font-size: larger;
@@ -133,6 +139,12 @@ header{
     main{
         border-style:dotted;
         margin:0pt;
+    }
+    img {
+        border-radius: 5%;
+        width: 80%;
+        margin: 10pt;
+        align-self: center;
     }
 }
  
