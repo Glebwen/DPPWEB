@@ -58,10 +58,8 @@ footer{
 }
 footer p{
     padding-left: 15pt;
+    padding-top: 15pt;
     font-size: larger;
-}
-footer h2{
-    padding-left: 10pt;
 }
 header{
     display: flex;
